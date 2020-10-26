@@ -1,0 +1,14 @@
+.parent {
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 750px;
+    font-family: 'Trispace', sans-serif;
+}
+.first-name, .last-name, .email, .submitbutton {
+padding-bottom: 15px;
+}
+input[type=submit] {
+    width: 200px
+  }
